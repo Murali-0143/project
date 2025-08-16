@@ -1,3 +1,3 @@
 # project
 my first project
-author md
+author-md
